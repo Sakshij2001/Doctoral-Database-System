@@ -1,0 +1,11 @@
+ScholarshipId, Type, Source, FundingCountry, FundingOrganization
+SCH1001, Merit-Based, Government, USA, National Science Foundation
+SCH1002, Need-Based, Private, Canada, The Gates Scholarship
+SCH1003, Research, University, UK, Cambridge Trust
+SCH1004, Leadership, Non-Profit, Australia, Rotary Foundation
+SCH1005, Talent, Corporate, Germany, Siemens AG
+SCH1006, International, Government, Japan, MEXT
+SCH1007, Diversity, Private, Sweden, Spotify Inclusion Fund
+SCH1008, Athletic, University, USA, NCAA
+SCH1009, Artistic, Non-Profit, France, Louvre Endowment
+SCH1010, STEM, Corporate, South Korea, Samsung Innovation Fund

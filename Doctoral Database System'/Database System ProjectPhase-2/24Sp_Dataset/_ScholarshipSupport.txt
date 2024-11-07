@@ -1,0 +1,17 @@
+StudentId,ScholarshipId,MonthlyStipend,Category
+AJ1836,SCH1001,1000.00,local
+VB1059,SCH1001,1000.00,local
+GM6294,SCH1001,1000.00,local
+RW9267,SCH1001,1000.00,local
+GD1948,SCH1001,1000.00,local
+HA2680,SCH1002,800.00,international
+SC1894,SCH1002,800.00,international
+IS2945,SCH1002,800.00,international
+MI1589,SCH1002,800.00,international
+AP2578,SCH1002,800.00,international
+BM1745,SCH1003,1200.00,international
+NS4289,SCH1003,1200.00,international
+LF150,SCH1003,1200.00,international
+AM2950,SCH1003,1200.00,international
+LB2673,SCH1003,1200.00,international
+JT6936,SCH1003,1200.00,international

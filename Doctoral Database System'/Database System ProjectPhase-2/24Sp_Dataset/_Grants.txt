@@ -1,0 +1,5 @@
+GrantId,Type,GrantTitle,Sourc,StDate,EndDate,StAmount,CurrBalance
+DOE1,Educational,GAANN,US Department of Education,2015-01-01,2022-08-30,1500000,500000
+NSF2,Research,Undergraduate Experiences,National Science Foundation,2018-09-01,2021-08-30,300000,250000
+NIH3,Research,Resistance to Infections,National Institutes of Health,2018-09-01,2024-08-30,450000,375000
+DOT4,Research,University Transportation,U.S. Department of Transportation,2016-01-01,2021-12-31,1500000,400000

@@ -1,0 +1,14 @@
+StudentId,TuitionPaymentPlan
+AA1234,Installments
+AA2345,Full Payment
+AJ1934,Full Payment
+BD5678,Installments
+BE1256,Full Payment
+EN4589,Full Payment
+FE6789,Installments
+FK8907,Installments
+IJ1569,Full Payment
+KO1905,Installments
+MS1259,Installments
+NZ1278,Full Payment
+VW8930,Installments

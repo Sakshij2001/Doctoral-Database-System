@@ -1,0 +1,13 @@
+InstructorId,FName,LName,StartDate,Degree,Rank,Type
+AO5671,Adegoke,Olubummo,1982-07-19,PhD,Professor,TT
+AS2348,Ahmed,Sarhan,1989-07-19,PhD,Professor,TT
+RB1897,Ravindran,Balaraman,1990-02-10,PhD,Professor,TT
+SB2561,Sanghamitra,Bandyopadhyay,1999-09-15,PhD,Assistant Professor,TT
+BL9856,Barbara,Liskov,2001-07-19,PhD,Professor,TT
+DP6712,David,Patterson,2001-07-19,PhD,Professor,NTT
+XZ3456,Xia,Zhou,2005-07-20,PhD,Associate Professor,NTT
+HY1945,Henry,Yuen,2008-07-25,PhD,Associate Professor,NTT
+AD4267,Andrea,Delgado,2002-07-15,PhD,Associate Professor,Adjunct
+CA2876,Corey,Ashley,2002-07-15,Masters,Associate Professor,Adjunct
+AO1290,Asu,Ozdaglar,2002-07-15,PhD,Associate Professor,Adjunct
+CC8908,Carlos,Castillo,2017-07-15,PhD,Associate Professor,Adjunct

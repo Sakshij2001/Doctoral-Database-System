@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <form action="interface.php" method="post" style="border: 2px solid black; border-bottom: 0px;">
+        <h1>Instructor</h1>
+
+        <label>InstructorId: </label>
+        <input type="text" name="InstructorId" required><br><br>
+
+        <label>FName: </label>
+        <input type="text" name="FName" required><br><br>
+
+        <label>LName: </label>
+        <input type="text" name="LName" required><br><br>
+
+        <label>Degree: </label>
+        <input type="radio" name="Degree" value="Masters" checked>Masters 
+        <input type="radio" name="Degree" value="PhD"> PhD  <br><br>
+
+        <label>Rank: </label>
+        <input type="radio" name="Rank" value="Professor" checked>Professor 
+        <input type="radio" name="Rank" value="Assocoate Professor"> Assocoate Professor  <br><br>
+
+
+        <label>StartDate: </label>
+        <input type="date" name="StartDate" value="2018-07-22" required><br><br>
+
+        <label>Type: </label>
+        <input type="radio" name="Type" value="Adjunct" checked>Adjunct 
+        <input type="radio" name="Type" value="TT">TT
+        <input type="radio" name="Type" value="NTT">NTT
+        <br><br>
+
+        Course Taught:  
+        <select name="courseID" required> 
+            <option value="CSE1310"> Introduction to programming </option> 
+            <option value="CSE1320"> Intermediate Programming </option> 
+            <option value="CSE1325"> Object-Oriented Programming </option> 
+            <option value="CSE3302"> Programming Languages </option> 
+            <option value="CSE3310"> Fundamentals of Software Engineering </option> 
+            <option value="CSE3330"> Database 1 </option> 
+            <option value="CSE3442"> Embedded Systems </option> 
+            <option value="CSE4351"> Parallel Processing </option> 
+            <option value="CSE4354"> Operating System </option> 
+            <option value="CSE5322"> Software Design </option> 
+            <option value="CSE5324"> Artificial Intelligence </option> 
+            <option value="CSE6338"> Neural Networks </option> 
+            <option value="CSE6365"> Computer Graphics </option> 
+        </select>
+        <br><br>
+        
+        Committee Member: <br>
+        <input type="radio" name="StudentId" value="AA1234" checked> AA1234 <br>
+        <input type="radio" name="StudentId" value="AA2345"> AA2345 <br>
+        <input type="radio" name="StudentId" value="AB2903"> AB2903 <br>
+        <input type="radio" name="StudentId" value="AD1035"> AD1035 <br>
+        <input type="radio" name="StudentId" value="AJ1836"> AJ1836 <br>
+        <input type="radio" name="StudentId" value="AL8345"> AL8345 <br>
+        <br><br>
+
+        <input type="submit" name="" id="">
+    </form>
+
+    <form method="post" action="connect.php" style="border: 2px solid black; border-top: 0px; border-bottom: 0px;">
+        <button type="submit">View the Result of insert Query</button> <br><br>
+    </form>
+
+    <form method="post" action="delete.php" style="border: 2px solid black; border-top: 0px; border-bottom: 0px;">
+        <button type="submit">Delete</button>
+    </form>
+    
+    <form method="post" action="table.php" style="border: 2px solid black; border-top: 0px;">
+        <button type="submit">View the Result of Delete Query</button> <br>
+    </form>
+    <a href="index.html" style="text-decoration: none;">Go to Index Page</a>
+</body>
+</html>
